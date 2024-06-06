@@ -24,5 +24,7 @@ After running the server, you can go [127.0.0.1:8000](http://127.0.0.1:8000) to 
 ## Testing
 
 We also provide a custom account for testing
-    - Username: test
-    - Password: webapp2024
+```
+Username: test
+Password: webapp2024
+```
